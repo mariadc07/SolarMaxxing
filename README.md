@@ -1,2 +1,4 @@
 # SolarMaxxing
-bello my name is maria dela cruz
+Conditions 
+Contraints 
+Results
