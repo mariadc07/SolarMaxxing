@@ -1,5 +1,5 @@
-function effic_func = f(r);
+function aspectrat_effic = f(r);
 % efficiency function based on aspect ratio
 % r is the aspect ratio, ranging from 0.5 to 4
-effic_funct = exp(-0.1 * (r-1)^2);
+aspectrat_effic = exp(-0.1 * (r-1).^2);
 end 
